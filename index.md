@@ -4,15 +4,15 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Glasgow"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Room 313, Sir James Black Building, University of Glasgow, G11 6PB"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Sir James Black Building, University of Glasgow, G11 6PB"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "55.870823"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-4.302763"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "20th April 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "13:30 - 16:30 BST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humandate: "April 20-24 April 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "09:30 - 12:30 BST (days 2 & 3), 13:30 - 16:30 BST (days 1 & 4)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2026-04-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2026-04-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2026-04-24        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["William Haese-Hill", "Ryan Field", "Adrien Morison", "Iain Barrass"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["William Haese-Hill", "Ryan Field", "Adrien Morison", "Iain Barrass"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["william.haese-hill@glasgow.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
