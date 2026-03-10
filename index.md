@@ -79,6 +79,13 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="general">Booking</h2>
+<p>Booking for the three lessons of this workshop is via Inkpath. While it is recommended that you book each lesson to get the most out of the workshop, you are also free to pick-and-choose. See booking links below:</p>
+<ul>
+  <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNjl9fQ==">Software Carpentry: The Unix Shell</a> </li>
+  <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNzB9fQ==">Software Carpentry: Version Control with Git</a></li>
+  <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNzV9fQ==">Software Carpentry: Plotting and Programming in Python</a></li>
+</ul>
 
 <h2 id="general">General Information</h2>
 
