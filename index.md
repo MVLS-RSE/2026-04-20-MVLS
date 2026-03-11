@@ -84,7 +84,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <ul>
   <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNjl9fQ==">Software Carpentry: The Unix Shell</a> </li>
   <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNzB9fQ==">Software Carpentry: Version Control with Git</a></li>
-  <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQWN0aXZpdHlEZXRhaWxQYWdlIiwicGFyYW1zIjp7ImlkIjoxMzMwNzV9fQ==">Software Carpentry: Plotting and Programming in Python</a></li>
+  <li><a href="https://glasgow.inkpath.co.uk/redirect/eyJuYW1lIjoiQ291cnNlRGV0YWlsUGFnZSIsInBhcmFtcyI6eyJpZCI6ODgwLCJjYWxlbmRhciI6dHJ1ZX19">Software Carpentry: Plotting and Programming in Python</a></li>
 </ul>
 
 <h2 id="general">General Information</h2>
